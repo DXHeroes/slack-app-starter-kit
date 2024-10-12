@@ -25,11 +25,11 @@ Before you can run the app, you'll need to store some environment variables.
 
 #### Install Dependencies
 
-`npm install`
+`pnpm install`
 
 #### Run Bolt Server
 
-`npm start`
+`pnpm start`
 
 ## Project Structure
 
